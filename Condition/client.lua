@@ -1,12 +1,14 @@
-SetEntityHeading(entity, heading)
-SetEntityHealth(entity, heading)
-SetEntityVisible(entity, toggle, unk)
+-- Native Utiliser 
 
-IsPedJumping(ped)
-IsPedRunning(ped)
-IsPedArmed(ped, 1)
+-- SetEntityHeading(entity, heading)
+-- SetEntityHealth(entity, heading)
+-- SetEntityVisible(entity, toggle, unk)
 
-IsControlJustPressed()
+-- IsPedJumping(ped)
+-- IsPedRunning(ped)
+-- IsPedArmed(ped, 1)
+
+-- IsControlJustPressed()
 
 ESX = nil
 CreateThread(function()
